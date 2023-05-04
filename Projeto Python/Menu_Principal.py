@@ -1,8 +1,10 @@
 from Biblioteca import *
 
 #Mensagem inicial
-print("\nBem vindo(a) a Central de informações virtuais da Lan Arena!\n")
-
+boas_Vindas=input('Qual é seu nome ?')
+boas_Vindas=("Bem vindo(a) a Central de informações virtuais da Lan Arena, " + boas_Vindas)
+print(boas_Vindas)
+print(' Em que podemos te ajudar?. ')
 #loop MENU principal
 while True:
     
@@ -134,17 +136,21 @@ while True:
             
             if opcao1 == "1":
                 (webbrowser.open(face))
+                print("Você deseja algo mais ?")
             elif opcao1 == "2":
                 (webbrowser.open(insta))
+                print("Você deseja algo mais ?")
             elif opcao1 == "3":
                 (webbrowser.open(you))
+                print("Você deseja algo mais ?")
             elif opcao1 == "4":
                 (webbrowser.open(whats))
+                print("Você deseja algo mais ?")
             #Voltar
             elif opcao1 == "5":
                 break
             else:
-                print("\nOpção Inválida! Tente novamente...\n")
+                print("\nOpção Inválida! Tente novamente, com os numeros indicados... Obrigado(a)\n")
                 continue
     #Opção Sair
     elif opcao == "4":
