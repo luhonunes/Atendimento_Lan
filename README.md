@@ -1,6 +1,11 @@
 # Atendimento Lan Arena
 Trabalho em Grupo Modulo 1, Resilia.
 
+- Luciana Otavio Nunes
+- Josean Leite Borges
+- Luiz Gustavo Amaral
+- João Vitor Cunha Chinato
+
 ## Evidência de Entrega:
 
 Nosso grupo optou por desenvolver um bot de atendimento no ramo da informação, utilizando o exemplo de uma Lan House chamada Lan Arena. 
