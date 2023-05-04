@@ -17,12 +17,16 @@ Execute o arquivo Menu_Principal na IDE de sua preferência. Lembre-se sempre de
 
 ## Créditos e Redes Sociais: 
 
-Para a elucidação do projeto foram utilizados as seguintes redes sociais
+Para a elucidação do projeto foram utilizados as seguintes redes sociais:
 
 Facebook (criado para o Projeto): [@ArenaLan.py](https://www.facebook.com/ArenaLan.py/)
+
 Instagram (página de Terceiros): [@blackoutarena](https://www.instagram.com/blackoutarena/)
+
 YouTube (página de Terceiros): [@arenaupesports2940](https://www.youtube.com/@arenaupesports2940)
+
 WhatsApp (pessoal):[+5514988481550](https://wa.me/+5514998481550)
+
 
 
 
