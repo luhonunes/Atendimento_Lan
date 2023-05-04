@@ -2,9 +2,9 @@ from Biblioteca import *
 
 #Mensagem inicial
 boas_Vindas=input('Qual é seu nome ?')
-boas_Vindas=("Bem vindo(a) a Central de informações virtuais da Lan Arena, " + boas_Vindas)
+boas_Vindas=("Bem vindo(a) a Central de informações virtuais da Lan Arena, " + boas_Vindas + ".")
 print(boas_Vindas)
-print(' Em que podemos te ajudar?. ')
+print(' Em que podemos te ajudar? ')
 #loop MENU principal
 while True:
     
