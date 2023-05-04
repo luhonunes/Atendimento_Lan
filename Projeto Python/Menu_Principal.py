@@ -136,17 +136,21 @@ while True:
             
             if opcao1 == "1":
                 (webbrowser.open(face))
+                print("Você deseja algo mais ?")
             elif opcao1 == "2":
                 (webbrowser.open(insta))
+                print("Você deseja algo mais ?")
             elif opcao1 == "3":
                 (webbrowser.open(you))
+                print("Você deseja algo mais ?")
             elif opcao1 == "4":
                 (webbrowser.open(whats))
+                print("Você deseja algo mais ?")
             #Voltar
             elif opcao1 == "5":
                 break
             else:
-                print("\nOpção Inválida! Tente novamente...\n")
+                print("\nOpção Inválida! Tente novamente, com os numeros indicados... Obrigado(a)\n")
                 continue
     #Opção Sair
     elif opcao == "4":
