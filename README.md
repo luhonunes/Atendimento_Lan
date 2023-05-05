@@ -1,9 +1,9 @@
 # Atendimento Lan Arena
-Trabalho em Grupo Modulo 1, Resilia.
-
+###Trabalho em Grupo Modulo 1, Resilia.
+  ## Grupo Nuvem 
 - Luciana Otavio Nunes
 - Josean Leite Borges
-- Luiz Gustavo Amaral
+- Luis Gustavo Amaral
 - João Vitor Cunha Chinato
 
 ## Evidência de Entrega:
