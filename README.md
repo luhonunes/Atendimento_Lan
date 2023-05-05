@@ -10,7 +10,7 @@
 - Josean Leite Borges (Pessoa Gestora de Gente e Engajamento)
     [Linkedin](https://www.linkedin.com/in/josean-leite-borges-bb5944265/)
 
-- Luiz Gustavo Amaral (Pessoa Colaboradora 1)
+- Luis Gustavo Amaral (Pessoa Colaboradora 1)
     [Linkedin](https://www.linkedin.com/in/luis-gustavo-amaral-30a64a182/)
 
 - Luciana Otavio Nunes (Pessoa Gestora de Conhecimento) 

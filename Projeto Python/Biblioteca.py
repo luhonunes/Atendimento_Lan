@@ -34,7 +34,7 @@ def hogwarts ():
 
 def fifa ():
     print("\nFifa 23: é um jogo de simulação de futebol em que os jogadores controlam um time de futebol e \nparticipam de vários modos de jogo, como partidas amistosas, competições de ligas e torneios internacionais. \nOs jogadores podem personalizar seus times, treinar seus jogadores e estratégias para vencer seus \nadversários.")
-    print("Classificação etária: Não anunciada oficialmente.\n")
+    print("Classificação etária: Os termos e condições da Electronic Arts (ou EA) afirmam que os jogadores devem ter 13 anos ou mais para jogar recursos online no jogo.\n")
 
 def forza ():
     print("\nForza Horizon 5: é um jogo de corrida em mundo aberto, em que os jogadores exploram um vasto mundo \naberto em carros esportivos, participando de vários eventos de corrida, como corridas em circuitos, \ncorridas em estrada e desafios off-road. Os jogadores podem personalizar seus carros, atualizar suas \nhabilidades e competir com outros jogadores online.")
