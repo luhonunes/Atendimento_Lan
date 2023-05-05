@@ -1,10 +1,21 @@
 # Atendimento Lan Arena
-Trabalho em Grupo Modulo 1, Resilia.
 
-- Luciana Otavio Nunes (Pessoa Gestora de conhecimento)
-- Josean Leite Borges (Pessoa Gestora de Gente e engajamento)
-- Luiz Gustavo Amaral (Pessoa Colaboradora)
+**Trabalho em Grupo Modulo 1, Resilia.**
+ 
+## Grupo Nuvem 
+
 - João Vitor Cunha Chinato (Pessoa Co-facilitadora)
+    [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-cunha-chinato-065b25125/)
+
+- Josean Leite Borges (Pessoa Gestora de Gente e Engajamento)
+    [Linkedin](https://www.linkedin.com/in/josean-leite-borges-bb5944265/)
+
+- Luiz Gustavo Amaral (Pessoa Colaboradora 1)
+    [Linkedin](https://www.linkedin.com/in/luis-gustavo-amaral-30a64a182/)
+
+- Luciana Otavio Nunes (Pessoa Gestora de Conhecimento) 
+    [Linkedin](https://www.linkedin.com/in/luhonunes/)
+
 
 ## Evidência de Entrega:
 
@@ -30,7 +41,7 @@ Instagram (página de Terceiros): [@blackoutarena](https://www.instagram.com/bla
 
 YouTube (página de Terceiros): [@arenaupesports2940](https://www.youtube.com/@arenaupesports2940)
 
-WhatsApp (pessoal):[+5514988481550](https://wa.me/+5514998481550)
+
 
 
 

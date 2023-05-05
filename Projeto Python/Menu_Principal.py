@@ -150,7 +150,7 @@ while True:
             elif opcao1 == "5":
                 break
             else:
-                print("\nOpção Inválida! Tente novamente, com os numeros indicados... Obrigado(a)\n")
+                print("\nOpção Inválida! Tente novamente, com os numeros indicados... Obrigado(a).\n")
                 continue
     #Opção Sair
     elif opcao == "4":
