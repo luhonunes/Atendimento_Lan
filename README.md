@@ -1,10 +1,10 @@
 # Atendimento Lan Arena
-Trabalho em Grupo Modulo 1, Resilia.
-
-- Luciana Otavio Nunes (Pessoa Gestora de conhecimento)
-- Josean Leite Borges (Pessoa Gestora de Gente e engajamento)
-- Luiz Gustavo Amaral (Pessoa Colaboradora)
-- João Vitor Cunha Chinato (Pessoa Co-facilitadora)
+**Trabalho em Grupo Modulo 1, Resilia.**
+  ## Grupo Nuvem 
+- Luciana Otavio Nunes
+- Josean Leite Borges
+- Luis Gustavo Amaral
+- João Vitor Cunha Chinato
 
 ## Evidência de Entrega:
 
